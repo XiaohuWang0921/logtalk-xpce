@@ -4,7 +4,7 @@
 		version is 1.0,
 		author is 'Xiaohu Wang',
 		date is 2018/02/01,
-		comment is 'Unit tests for the Logtalk-XPCE interface'
+		comment is 'Unit tests for the Logtalk/XPCE interface'
 	]).
 
 	succeeds(prolog_true) :-
